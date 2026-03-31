@@ -1,0 +1,16 @@
+{
+  "name": "Nix Digital",
+  "symbol": "SNIX",
+  "description": "Protocolo DeFi de Preservação Patrimonial e Rendimentos Automáticos.",
+  "image": "https://raw.githubusercontent.com/nettoxx00/nix-assets/refs/heads/main/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/nettoxx00/nix-assets/refs/heads/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
